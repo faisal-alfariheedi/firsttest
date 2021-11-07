@@ -1,5 +1,33 @@
 import 'package:flutter/material.dart';
-
+//How is the project structured?
+//
+// 1-dart_tool
+// 2-.idea
+// 3-android
+// 4-ios
+// 5-build
+// 6-lib
+// 7-test
+//
+// What does each file do and mean?
+//
+// 1-save configuration for dart and flutter
+// 2-i don`t know
+// 3-android app
+// 4-ios app
+// 5-build configuration
+// 6-flutter main
+// 7-test
+//
+// In which file is the android code and where is the iOS code?
+//
+// in android and ios in ios
+//
+// Where is the Flutter code?
+//
+// in lib folder
+//
+// What file can we use to add dependencies/third-party libraries?
 void main() {
   runApp(const meapp());
 }
